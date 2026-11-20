@@ -12,6 +12,8 @@ You can also include images in this folder and reference them in the markdown. E
 Simple 4 bit ALU using these pins: 
 test
 test2
+test3
+
 
 
 ## How to test
