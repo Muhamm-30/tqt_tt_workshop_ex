@@ -19,6 +19,8 @@ This is where you put how to test your design when your chip comes back. For now
 
 Any external hardware used to interface with the PCB once it comes back. 
 
+test
+
 Options could include: 
 
 1. FPGA's 
