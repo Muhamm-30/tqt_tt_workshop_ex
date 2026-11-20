@@ -10,6 +10,9 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Simple 4 bit ALU using these pins: 
+test
+test2
+
 
 ## How to test
 
